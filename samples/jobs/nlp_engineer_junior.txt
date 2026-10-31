@@ -1,0 +1,19 @@
+Job Title: Junior NLP Engineer
+Company: LinguaWorks AI (fictional sample)
+
+Responsibilities
+- Train and fine-tune transformer models for Indian-language text classification and NER.
+- Build retrieval-augmented generation (RAG) systems with vector databases such as FAISS.
+- Evaluate large language models and design prompts.
+- Deploy models with Docker on AWS or GCP.
+
+Requirements
+- 1+ years of experience (internships count) in NLP or machine learning.
+- Strong Python and PyTorch.
+- Hands-on experience with Hugging Face Transformers, spaCy and Sentence Transformers.
+- Understanding of deep learning and statistics.
+- Bachelor's or Master's degree in Computer Science.
+
+Preferred
+- Experience with fine-tuning (LoRA/PEFT) and LangChain.
+- Publications in NLP venues.

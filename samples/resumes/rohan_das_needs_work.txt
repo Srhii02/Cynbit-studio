@@ -1,0 +1,17 @@
+Rohan Das
+rohan.das.demo@example.com
+
+About me
+I am a hardworking and passionate team player looking for a job in IT. I am a quick learner and I am very
+detail-oriented.
+
+Education
+Bachelor of Computer Applications, City Degree College (fictional), 2021 - 2024
+
+Work
+Responsible for helping the team with website work at a local shop.
+Worked on some Python scripts.
+Helped in testing.
+
+Skills
+MS Office, Python, HTML, communication

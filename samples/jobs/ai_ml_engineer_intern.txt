@@ -1,0 +1,24 @@
+Job Title: AI/ML Engineer Intern
+Company: Nimbus Labs (fictional sample)
+Location: Remote, India
+
+About the role
+We are looking for an AI/ML Engineer Intern to build NLP features for our career-tech platform.
+
+Responsibilities
+- Build and evaluate machine learning models for text classification and semantic search.
+- Develop NLP pipelines using spaCy and Hugging Face Transformers.
+- Create embeddings with Sentence Transformers and integrate them with a vector database.
+- Expose models through REST APIs using FastAPI and package them with Docker.
+- Prototype LLM features with prompt engineering and RAG.
+
+Requirements
+- Pursuing or completed a Bachelor's degree in Computer Science or a related field.
+- Strong Python, Pandas and NumPy skills.
+- Solid understanding of machine learning fundamentals and model evaluation.
+- Experience with PyTorch or TensorFlow.
+- Familiarity with Git and SQL.
+
+Nice to have
+- Experience with LangChain, MLflow or AWS.
+- Exposure to Streamlit for quick demos.

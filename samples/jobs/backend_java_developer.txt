@@ -1,0 +1,17 @@
+Job Title: Backend Java Developer
+Company: Ledgerline Fintech (fictional sample)
+
+Responsibilities
+- Develop microservices in Java with Spring Boot.
+- Design REST APIs and integrate with Kafka event streams.
+- Optimize PostgreSQL queries and Redis caches.
+
+Requirements
+- 2+ years of experience with Java and Spring Boot.
+- Strong understanding of OOP, data structures and algorithms.
+- Experience with SQL, PostgreSQL and microservices.
+- Familiarity with Docker and Kubernetes.
+- Bachelor's degree in Computer Science.
+
+Preferred
+- Experience with AWS and system design.

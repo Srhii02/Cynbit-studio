@@ -1,0 +1,18 @@
+Job Title: Data Analyst Intern
+Company: Riverstone Insights (fictional sample)
+
+Responsibilities
+- Clean, analyze and visualize business data to answer stakeholder questions.
+- Build and maintain dashboards in Power BI or Tableau.
+- Write SQL queries against MySQL and PostgreSQL databases.
+- Present findings clearly to non-technical teams.
+
+Requirements
+- Bachelor's degree in Statistics, Mathematics, Economics, Computer Science or similar.
+- Strong Excel skills including pivot tables.
+- Good knowledge of SQL and statistics (hypothesis testing).
+- Data visualization and communication skills.
+
+Preferred
+- Python with Pandas for data analysis.
+- Exposure to A/B testing.

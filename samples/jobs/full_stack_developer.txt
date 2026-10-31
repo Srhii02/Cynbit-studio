@@ -1,0 +1,21 @@
+Job Title: Full Stack Developer
+Company: Orbit Commerce (fictional sample)
+
+We are hiring a Full Stack Developer with 1+ years of experience to build merchant-facing web apps.
+
+What you'll do
+- Build responsive front-end features in React and TypeScript.
+- Design and implement REST APIs with Node.js and Express.
+- Work with MongoDB and PostgreSQL data models.
+- Write unit tests and participate in code reviews.
+
+Requirements
+- 1+ years of experience in full-stack web development.
+- Strong JavaScript, TypeScript, HTML and CSS.
+- Experience with React and Node.js.
+- Experience with Git and CI/CD pipelines.
+- Bachelor's degree in Computer Science or equivalent experience.
+
+Nice to have
+- Docker, AWS and GraphQL.
+- Experience with Redis caching.

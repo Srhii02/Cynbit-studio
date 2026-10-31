@@ -1,0 +1,30 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Streamlit: Cynbit Studio",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "app.py"],
+      "cwd": "${workspaceFolder}",
+      "justMyCode": true
+    },
+    {
+      "name": "Pytest: all tests",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": ["-v"],
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "CLI: analyse sample resume",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/cli.py",
+      "args": ["samples/resumes/ananya_rao_ml_student.pdf", "samples/jobs"],
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

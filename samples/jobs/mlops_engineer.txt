@@ -1,0 +1,19 @@
+Job Title: MLOps Engineer
+Company: Stratus Cloud Labs (fictional sample)
+
+Responsibilities
+- Build CI/CD pipelines for training and deploying ML models.
+- Operate Kubernetes clusters and containerized model services.
+- Implement experiment tracking and model monitoring with MLflow.
+- Automate infrastructure with Terraform on AWS.
+
+Requirements
+- 2+ years of experience in DevOps or MLOps.
+- Strong Python and Linux skills, Bash scripting.
+- Docker, Kubernetes and CI/CD (GitHub Actions or Jenkins).
+- Cloud experience on AWS or GCP.
+- Bachelor's degree in Computer Science or related field.
+
+Nice to have
+- Apache Airflow and Kafka.
+- Knowledge of machine learning fundamentals.

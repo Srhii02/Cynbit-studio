@@ -1,0 +1,1257 @@
+{
+ "_comment": "Curated skill taxonomy. Each skill: name, category, aliases (lower-case surface forms), hours (rough self-study estimate to job-ready basics), related (skills that give partial credit). case_sensitive=true means the canonical name is matched case-sensitively (e.g. 'R', 'Go').",
+ "skills": [
+  {
+   "name": "Python",
+   "category": "Programming Languages",
+   "aliases": [
+    "python",
+    "python3",
+    "py"
+   ],
+   "hours": 60,
+   "related": []
+  },
+  {
+   "name": "Java",
+   "category": "Programming Languages",
+   "aliases": [
+    "java",
+    "java 8",
+    "java 11",
+    "java 17"
+   ],
+   "hours": 80,
+   "related": [
+    "Kotlin"
+   ]
+  },
+  {
+   "name": "JavaScript",
+   "category": "Programming Languages",
+   "aliases": [
+    "javascript",
+    "js",
+    "es6",
+    "ecmascript"
+   ],
+   "hours": 60,
+   "related": [
+    "TypeScript"
+   ]
+  },
+  {
+   "name": "TypeScript",
+   "category": "Programming Languages",
+   "aliases": [
+    "typescript"
+   ],
+   "hours": 30,
+   "related": [
+    "JavaScript"
+   ]
+  },
+  {
+   "name": "C++",
+   "category": "Programming Languages",
+   "aliases": [
+    "c++",
+    "cpp"
+   ],
+   "hours": 100,
+   "related": [
+    "C"
+   ]
+  },
+  {
+   "name": "C",
+   "category": "Programming Languages",
+   "aliases": [
+    "c programming",
+    "ansi c"
+   ],
+   "hours": 60,
+   "related": [
+    "C++"
+   ]
+  },
+  {
+   "name": "C#",
+   "category": "Programming Languages",
+   "aliases": [
+    "c#",
+    "csharp",
+    "c sharp"
+   ],
+   "hours": 80,
+   "related": [
+    "Java"
+   ]
+  },
+  {
+   "name": "Go",
+   "category": "Programming Languages",
+   "aliases": [
+    "golang"
+   ],
+   "case_sensitive": true,
+   "hours": 50,
+   "related": []
+  },
+  {
+   "name": "Rust",
+   "category": "Programming Languages",
+   "aliases": [
+    "rust"
+   ],
+   "hours": 100,
+   "related": [
+    "C++"
+   ]
+  },
+  {
+   "name": "Kotlin",
+   "category": "Programming Languages",
+   "aliases": [
+    "kotlin"
+   ],
+   "hours": 50,
+   "related": [
+    "Java"
+   ]
+  },
+  {
+   "name": "R",
+   "category": "Programming Languages",
+   "aliases": [
+    "r programming",
+    "rstudio"
+   ],
+   "case_sensitive": true,
+   "hours": 50,
+   "related": [
+    "Python"
+   ]
+  },
+  {
+   "name": "SQL",
+   "category": "Databases",
+   "aliases": [
+    "sql",
+    "t-sql",
+    "pl/sql",
+    "ansi sql"
+   ],
+   "hours": 30,
+   "related": [
+    "PostgreSQL",
+    "MySQL"
+   ]
+  },
+  {
+   "name": "Bash",
+   "category": "Tools & Practices",
+   "aliases": [
+    "bash",
+    "shell scripting",
+    "shell script",
+    "linux shell"
+   ],
+   "hours": 20,
+   "related": [
+    "Linux"
+   ]
+  },
+  {
+   "name": "Machine Learning",
+   "category": "ML & AI",
+   "aliases": [
+    "machine learning",
+    "ml",
+    "ml models",
+    "predictive modeling",
+    "predictive modelling"
+   ],
+   "hours": 120,
+   "related": [
+    "Deep Learning",
+    "Scikit-learn"
+   ]
+  },
+  {
+   "name": "Deep Learning",
+   "category": "ML & AI",
+   "aliases": [
+    "deep learning",
+    "neural networks",
+    "neural network",
+    "dl"
+   ],
+   "hours": 120,
+   "related": [
+    "Machine Learning",
+    "PyTorch",
+    "TensorFlow"
+   ]
+  },
+  {
+   "name": "Supervised Learning",
+   "category": "ML & AI",
+   "aliases": [
+    "supervised learning",
+    "classification",
+    "regression models"
+   ],
+   "hours": 30,
+   "related": [
+    "Machine Learning"
+   ]
+  },
+  {
+   "name": "Unsupervised Learning",
+   "category": "ML & AI",
+   "aliases": [
+    "unsupervised learning",
+    "clustering",
+    "k-means",
+    "kmeans"
+   ],
+   "hours": 25,
+   "related": [
+    "Machine Learning"
+   ]
+  },
+  {
+   "name": "Feature Engineering",
+   "category": "ML & AI",
+   "aliases": [
+    "feature engineering",
+    "feature selection"
+   ],
+   "hours": 20,
+   "related": [
+    "Machine Learning"
+   ]
+  },
+  {
+   "name": "Model Evaluation",
+   "category": "ML & AI",
+   "aliases": [
+    "model evaluation",
+    "cross-validation",
+    "cross validation",
+    "hyperparameter tuning",
+    "a/b testing"
+   ],
+   "hours": 15,
+   "related": [
+    "Machine Learning"
+   ]
+  },
+  {
+   "name": "Scikit-learn",
+   "category": "ML & AI",
+   "aliases": [
+    "scikit-learn",
+    "sklearn",
+    "scikit learn"
+   ],
+   "hours": 30,
+   "related": [
+    "Machine Learning"
+   ]
+  },
+  {
+   "name": "XGBoost",
+   "category": "ML & AI",
+   "aliases": [
+    "xgboost",
+    "lightgbm",
+    "catboost",
+    "gradient boosting"
+   ],
+   "hours": 15,
+   "related": [
+    "Scikit-learn"
+   ]
+  },
+  {
+   "name": "PyTorch",
+   "category": "Deep Learning",
+   "aliases": [
+    "pytorch",
+    "torch"
+   ],
+   "hours": 60,
+   "related": [
+    "TensorFlow",
+    "Deep Learning"
+   ]
+  },
+  {
+   "name": "TensorFlow",
+   "category": "Deep Learning",
+   "aliases": [
+    "tensorflow",
+    "tf2",
+    "keras"
+   ],
+   "hours": 60,
+   "related": [
+    "PyTorch",
+    "Deep Learning"
+   ]
+  },
+  {
+   "name": "Computer Vision",
+   "category": "Deep Learning",
+   "aliases": [
+    "computer vision",
+    "image classification",
+    "object detection",
+    "opencv",
+    "cnn",
+    "cnns"
+   ],
+   "hours": 80,
+   "related": [
+    "Deep Learning"
+   ]
+  },
+  {
+   "name": "Transformers",
+   "category": "NLP & LLMs",
+   "aliases": [
+    "transformers",
+    "hugging face",
+    "huggingface",
+    "bert",
+    "transformer models"
+   ],
+   "hours": 40,
+   "related": [
+    "NLP",
+    "Deep Learning"
+   ]
+  },
+  {
+   "name": "NLP",
+   "category": "NLP & LLMs",
+   "aliases": [
+    "nlp",
+    "natural language processing",
+    "text mining",
+    "text classification",
+    "named entity recognition",
+    "ner"
+   ],
+   "hours": 80,
+   "related": [
+    "Transformers",
+    "spaCy"
+   ]
+  },
+  {
+   "name": "spaCy",
+   "category": "NLP & LLMs",
+   "aliases": [
+    "spacy"
+   ],
+   "hours": 15,
+   "related": [
+    "NLP",
+    "NLTK"
+   ]
+  },
+  {
+   "name": "NLTK",
+   "category": "NLP & LLMs",
+   "aliases": [
+    "nltk"
+   ],
+   "hours": 10,
+   "related": [
+    "NLP",
+    "spaCy"
+   ]
+  },
+  {
+   "name": "Sentence Transformers",
+   "category": "NLP & LLMs",
+   "aliases": [
+    "sentence transformers",
+    "sentence-transformers",
+    "sbert",
+    "text embeddings",
+    "embeddings",
+    "semantic search"
+   ],
+   "hours": 15,
+   "related": [
+    "Transformers",
+    "Vector Databases"
+   ]
+  },
+  {
+   "name": "LLMs",
+   "category": "NLP & LLMs",
+   "aliases": [
+    "llm",
+    "llms",
+    "large language models",
+    "large language model",
+    "generative ai",
+    "genai",
+    "gpt",
+    "gemini api",
+    "openai api"
+   ],
+   "hours": 40,
+   "related": [
+    "Prompt Engineering",
+    "Transformers"
+   ]
+  },
+  {
+   "name": "Prompt Engineering",
+   "category": "NLP & LLMs",
+   "aliases": [
+    "prompt engineering",
+    "prompt design"
+   ],
+   "hours": 10,
+   "related": [
+    "LLMs"
+   ]
+  },
+  {
+   "name": "RAG",
+   "category": "NLP & LLMs",
+   "aliases": [
+    "rag",
+    "retrieval augmented generation",
+    "retrieval-augmented generation"
+   ],
+   "hours": 25,
+   "related": [
+    "LLMs",
+    "Vector Databases",
+    "LangChain"
+   ]
+  },
+  {
+   "name": "LangChain",
+   "category": "NLP & LLMs",
+   "aliases": [
+    "langchain",
+    "llamaindex",
+    "llama index"
+   ],
+   "hours": 20,
+   "related": [
+    "RAG",
+    "LLMs"
+   ]
+  },
+  {
+   "name": "Vector Databases",
+   "category": "NLP & LLMs",
+   "aliases": [
+    "vector database",
+    "vector databases",
+    "faiss",
+    "pinecone",
+    "chromadb",
+    "chroma",
+    "weaviate",
+    "milvus",
+    "pgvector"
+   ],
+   "hours": 15,
+   "related": [
+    "RAG",
+    "Sentence Transformers"
+   ]
+  },
+  {
+   "name": "Fine-tuning",
+   "category": "NLP & LLMs",
+   "aliases": [
+    "fine-tuning",
+    "fine tuning",
+    "finetuning",
+    "lora",
+    "peft"
+   ],
+   "hours": 30,
+   "related": [
+    "Transformers",
+    "LLMs"
+   ]
+  },
+  {
+   "name": "Pandas",
+   "category": "Data Science & Analytics",
+   "aliases": [
+    "pandas"
+   ],
+   "hours": 25,
+   "related": [
+    "NumPy"
+   ]
+  },
+  {
+   "name": "NumPy",
+   "category": "Data Science & Analytics",
+   "aliases": [
+    "numpy"
+   ],
+   "hours": 15,
+   "related": [
+    "Pandas"
+   ]
+  },
+  {
+   "name": "Statistics",
+   "category": "Data Science & Analytics",
+   "aliases": [
+    "statistics",
+    "statistical analysis",
+    "hypothesis testing",
+    "probability",
+    "statistical modeling"
+   ],
+   "hours": 60,
+   "related": [
+    "Machine Learning"
+   ]
+  },
+  {
+   "name": "Data Visualization",
+   "category": "Data Science & Analytics",
+   "aliases": [
+    "data visualization",
+    "data visualisation",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "dashboards",
+    "dashboarding"
+   ],
+   "hours": 20,
+   "related": [
+    "Tableau",
+    "Power BI"
+   ]
+  },
+  {
+   "name": "Tableau",
+   "category": "Data Science & Analytics",
+   "aliases": [
+    "tableau"
+   ],
+   "hours": 20,
+   "related": [
+    "Power BI",
+    "Data Visualization"
+   ]
+  },
+  {
+   "name": "Power BI",
+   "category": "Data Science & Analytics",
+   "aliases": [
+    "power bi",
+    "powerbi",
+    "dax"
+   ],
+   "hours": 20,
+   "related": [
+    "Tableau",
+    "Data Visualization"
+   ]
+  },
+  {
+   "name": "Excel",
+   "category": "Data Science & Analytics",
+   "aliases": [
+    "excel",
+    "ms excel",
+    "microsoft excel",
+    "advanced excel",
+    "pivot tables",
+    "vlookup"
+   ],
+   "hours": 15,
+   "related": []
+  },
+  {
+   "name": "Data Analysis",
+   "category": "Data Science & Analytics",
+   "aliases": [
+    "data analysis",
+    "data analytics",
+    "exploratory data analysis",
+    "eda",
+    "data cleaning",
+    "data wrangling"
+   ],
+   "hours": 30,
+   "related": [
+    "Pandas",
+    "Statistics"
+   ]
+  },
+  {
+   "name": "Jupyter",
+   "category": "Data Science & Analytics",
+   "aliases": [
+    "jupyter",
+    "jupyter notebook",
+    "jupyter notebooks",
+    "jupyterlab",
+    "google colab",
+    "colab"
+   ],
+   "hours": 3,
+   "related": [
+    "Python"
+   ]
+  },
+  {
+   "name": "Apache Spark",
+   "category": "Data Engineering",
+   "aliases": [
+    "spark",
+    "apache spark",
+    "pyspark"
+   ],
+   "hours": 40,
+   "related": [
+    "Hadoop"
+   ]
+  },
+  {
+   "name": "Hadoop",
+   "category": "Data Engineering",
+   "aliases": [
+    "hadoop",
+    "hdfs",
+    "hive",
+    "mapreduce"
+   ],
+   "hours": 30,
+   "related": [
+    "Apache Spark"
+   ]
+  },
+  {
+   "name": "Kafka",
+   "category": "Data Engineering",
+   "aliases": [
+    "kafka",
+    "apache kafka"
+   ],
+   "hours": 25,
+   "related": []
+  },
+  {
+   "name": "Airflow",
+   "category": "Data Engineering",
+   "aliases": [
+    "airflow",
+    "apache airflow"
+   ],
+   "hours": 20,
+   "related": [
+    "ETL"
+   ]
+  },
+  {
+   "name": "ETL",
+   "category": "Data Engineering",
+   "aliases": [
+    "etl",
+    "elt",
+    "data pipelines",
+    "data pipeline",
+    "data warehousing",
+    "data warehouse"
+   ],
+   "hours": 25,
+   "related": [
+    "Airflow",
+    "SQL"
+   ]
+  },
+  {
+   "name": "HTML",
+   "category": "Web Frontend",
+   "aliases": [
+    "html",
+    "html5"
+   ],
+   "hours": 10,
+   "related": [
+    "CSS"
+   ]
+  },
+  {
+   "name": "CSS",
+   "category": "Web Frontend",
+   "aliases": [
+    "css",
+    "css3",
+    "tailwind",
+    "tailwindcss",
+    "sass",
+    "bootstrap"
+   ],
+   "hours": 20,
+   "related": [
+    "HTML"
+   ]
+  },
+  {
+   "name": "React",
+   "category": "Web Frontend",
+   "aliases": [
+    "react",
+    "react.js",
+    "reactjs",
+    "react js",
+    "redux",
+    "next.js",
+    "nextjs"
+   ],
+   "hours": 50,
+   "related": [
+    "JavaScript",
+    "Angular",
+    "Vue"
+   ]
+  },
+  {
+   "name": "Angular",
+   "category": "Web Frontend",
+   "aliases": [
+    "angular",
+    "angularjs"
+   ],
+   "hours": 50,
+   "related": [
+    "React",
+    "TypeScript"
+   ]
+  },
+  {
+   "name": "Vue",
+   "category": "Web Frontend",
+   "aliases": [
+    "vue",
+    "vue.js",
+    "vuejs",
+    "nuxt"
+   ],
+   "hours": 40,
+   "related": [
+    "React"
+   ]
+  },
+  {
+   "name": "Streamlit",
+   "category": "Web Frontend",
+   "aliases": [
+    "streamlit",
+    "gradio"
+   ],
+   "hours": 8,
+   "related": [
+    "Python"
+   ]
+  },
+  {
+   "name": "Node.js",
+   "category": "Web Backend",
+   "aliases": [
+    "node.js",
+    "nodejs",
+    "node js",
+    "express.js",
+    "expressjs"
+   ],
+   "hours": 40,
+   "related": [
+    "JavaScript"
+   ]
+  },
+  {
+   "name": "Django",
+   "category": "Web Backend",
+   "aliases": [
+    "django",
+    "django rest framework",
+    "drf"
+   ],
+   "hours": 40,
+   "related": [
+    "Flask",
+    "FastAPI"
+   ]
+  },
+  {
+   "name": "Flask",
+   "category": "Web Backend",
+   "aliases": [
+    "flask"
+   ],
+   "hours": 20,
+   "related": [
+    "FastAPI",
+    "Django"
+   ]
+  },
+  {
+   "name": "FastAPI",
+   "category": "Web Backend",
+   "aliases": [
+    "fastapi",
+    "fast api"
+   ],
+   "hours": 20,
+   "related": [
+    "Flask",
+    "REST APIs"
+   ]
+  },
+  {
+   "name": "Spring Boot",
+   "category": "Web Backend",
+   "aliases": [
+    "spring boot",
+    "spring framework",
+    "spring mvc",
+    "hibernate"
+   ],
+   "hours": 60,
+   "related": [
+    "Java"
+   ]
+  },
+  {
+   "name": "REST APIs",
+   "category": "Web Backend",
+   "aliases": [
+    "rest api",
+    "rest apis",
+    "restful",
+    "restful apis",
+    "api development",
+    "api design"
+   ],
+   "hours": 15,
+   "related": [
+    "FastAPI",
+    "Node.js"
+   ]
+  },
+  {
+   "name": "GraphQL",
+   "category": "Web Backend",
+   "aliases": [
+    "graphql"
+   ],
+   "hours": 15,
+   "related": [
+    "REST APIs"
+   ]
+  },
+  {
+   "name": "Microservices",
+   "category": "Web Backend",
+   "aliases": [
+    "microservices",
+    "microservice",
+    "microservice architecture",
+    "distributed systems"
+   ],
+   "hours": 40,
+   "related": [
+    "Docker",
+    "Kubernetes"
+   ]
+  },
+  {
+   "name": "PostgreSQL",
+   "category": "Databases",
+   "aliases": [
+    "postgresql",
+    "postgres"
+   ],
+   "hours": 20,
+   "related": [
+    "SQL",
+    "MySQL"
+   ]
+  },
+  {
+   "name": "MySQL",
+   "category": "Databases",
+   "aliases": [
+    "mysql",
+    "mariadb"
+   ],
+   "hours": 15,
+   "related": [
+    "SQL",
+    "PostgreSQL"
+   ]
+  },
+  {
+   "name": "MongoDB",
+   "category": "Databases",
+   "aliases": [
+    "mongodb",
+    "mongo",
+    "mongoose"
+   ],
+   "hours": 15,
+   "related": [
+    "NoSQL"
+   ]
+  },
+  {
+   "name": "NoSQL",
+   "category": "Databases",
+   "aliases": [
+    "nosql",
+    "dynamodb",
+    "cassandra",
+    "firebase",
+    "firestore"
+   ],
+   "hours": 15,
+   "related": [
+    "MongoDB"
+   ]
+  },
+  {
+   "name": "Redis",
+   "category": "Databases",
+   "aliases": [
+    "redis"
+   ],
+   "hours": 10,
+   "related": []
+  },
+  {
+   "name": "SQLite",
+   "category": "Databases",
+   "aliases": [
+    "sqlite",
+    "sqlite3"
+   ],
+   "hours": 5,
+   "related": [
+    "SQL"
+   ]
+  },
+  {
+   "name": "AWS",
+   "category": "Cloud & DevOps",
+   "aliases": [
+    "aws",
+    "amazon web services",
+    "ec2",
+    "s3",
+    "aws lambda",
+    "sagemaker",
+    "amazon sagemaker"
+   ],
+   "hours": 60,
+   "related": [
+    "GCP",
+    "Azure"
+   ]
+  },
+  {
+   "name": "GCP",
+   "category": "Cloud & DevOps",
+   "aliases": [
+    "gcp",
+    "google cloud",
+    "google cloud platform",
+    "bigquery",
+    "vertex ai"
+   ],
+   "hours": 60,
+   "related": [
+    "AWS",
+    "Azure"
+   ]
+  },
+  {
+   "name": "Azure",
+   "category": "Cloud & DevOps",
+   "aliases": [
+    "azure",
+    "microsoft azure",
+    "azure ml"
+   ],
+   "hours": 60,
+   "related": [
+    "AWS",
+    "GCP"
+   ]
+  },
+  {
+   "name": "Docker",
+   "category": "Cloud & DevOps",
+   "aliases": [
+    "docker",
+    "containers",
+    "containerization",
+    "docker compose",
+    "docker-compose"
+   ],
+   "hours": 15,
+   "related": [
+    "Kubernetes"
+   ]
+  },
+  {
+   "name": "Kubernetes",
+   "category": "Cloud & DevOps",
+   "aliases": [
+    "kubernetes",
+    "k8s",
+    "helm",
+    "eks",
+    "gke",
+    "aks"
+   ],
+   "hours": 40,
+   "related": [
+    "Docker"
+   ]
+  },
+  {
+   "name": "CI/CD",
+   "category": "Cloud & DevOps",
+   "aliases": [
+    "ci/cd",
+    "ci cd",
+    "cicd",
+    "continuous integration",
+    "github actions",
+    "jenkins",
+    "gitlab ci"
+   ],
+   "hours": 15,
+   "related": [
+    "Git"
+   ]
+  },
+  {
+   "name": "Terraform",
+   "category": "Cloud & DevOps",
+   "aliases": [
+    "terraform",
+    "infrastructure as code",
+    "iac",
+    "cloudformation"
+   ],
+   "hours": 20,
+   "related": [
+    "AWS"
+   ]
+  },
+  {
+   "name": "Linux",
+   "category": "Cloud & DevOps",
+   "aliases": [
+    "linux",
+    "unix",
+    "ubuntu"
+   ],
+   "hours": 20,
+   "related": [
+    "Bash"
+   ]
+  },
+  {
+   "name": "MLOps",
+   "category": "MLOps",
+   "aliases": [
+    "mlops",
+    "ml ops",
+    "model deployment",
+    "model serving",
+    "model monitoring",
+    "ml pipelines"
+   ],
+   "hours": 40,
+   "related": [
+    "MLflow",
+    "Docker"
+   ]
+  },
+  {
+   "name": "MLflow",
+   "category": "MLOps",
+   "aliases": [
+    "mlflow",
+    "weights & biases",
+    "wandb",
+    "dvc",
+    "experiment tracking"
+   ],
+   "hours": 10,
+   "related": [
+    "MLOps"
+   ]
+  },
+  {
+   "name": "ONNX",
+   "category": "MLOps",
+   "aliases": [
+    "onnx",
+    "tensorrt",
+    "model optimization",
+    "quantization"
+   ],
+   "hours": 15,
+   "related": [
+    "MLOps"
+   ]
+  },
+  {
+   "name": "Git",
+   "category": "Tools & Practices",
+   "aliases": [
+    "git",
+    "github",
+    "gitlab",
+    "bitbucket",
+    "version control"
+   ],
+   "hours": 8,
+   "related": []
+  },
+  {
+   "name": "Unit Testing",
+   "category": "Tools & Practices",
+   "aliases": [
+    "unit testing",
+    "pytest",
+    "junit",
+    "jest",
+    "test-driven development",
+    "tdd",
+    "unittest"
+   ],
+   "hours": 12,
+   "related": []
+  },
+  {
+   "name": "Agile",
+   "category": "Tools & Practices",
+   "aliases": [
+    "agile",
+    "scrum",
+    "kanban",
+    "jira"
+   ],
+   "hours": 5,
+   "related": []
+  },
+  {
+   "name": "Data Structures & Algorithms",
+   "category": "Tools & Practices",
+   "aliases": [
+    "data structures",
+    "algorithms",
+    "dsa",
+    "data structures and algorithms",
+    "leetcode"
+   ],
+   "hours": 120,
+   "related": []
+  },
+  {
+   "name": "OOP",
+   "category": "Tools & Practices",
+   "aliases": [
+    "oop",
+    "object oriented programming",
+    "object-oriented programming",
+    "object-oriented design",
+    "design patterns"
+   ],
+   "hours": 20,
+   "related": []
+  },
+  {
+   "name": "System Design",
+   "category": "Tools & Practices",
+   "aliases": [
+    "system design",
+    "scalable systems",
+    "software architecture"
+   ],
+   "hours": 60,
+   "related": [
+    "Microservices"
+   ]
+  },
+  {
+   "name": "Communication",
+   "category": "Soft Skills",
+   "aliases": [
+    "communication",
+    "communication skills",
+    "presentation skills",
+    "technical writing",
+    "documentation"
+   ],
+   "hours": 10,
+   "related": []
+  },
+  {
+   "name": "Teamwork",
+   "category": "Soft Skills",
+   "aliases": [
+    "teamwork",
+    "collaboration",
+    "team player",
+    "cross-functional"
+   ],
+   "hours": 5,
+   "related": []
+  },
+  {
+   "name": "Problem Solving",
+   "category": "Soft Skills",
+   "aliases": [
+    "problem solving",
+    "problem-solving",
+    "analytical thinking",
+    "critical thinking"
+   ],
+   "hours": 10,
+   "related": []
+  },
+  {
+   "name": "Leadership",
+   "category": "Soft Skills",
+   "aliases": [
+    "leadership",
+    "mentoring",
+    "mentored",
+    "led a team",
+    "team lead"
+   ],
+   "hours": 10,
+   "related": []
+  }
+ ]
+}
